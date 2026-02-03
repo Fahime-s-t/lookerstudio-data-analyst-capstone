@@ -1,6 +1,6 @@
 # Data Analyst Capstone Project – In-Demand Developer Skills Analysis
 
-This repository contains my **Data Analyst Capstone Project**, completed as part of the Coursera Data Analytics program.  
+This repository contains my **Data Analyst Capstone Project**, completed as part of the IBM Data Analyst Professional Certificate.  
 The project combines **data analysis, visualization, and storytelling** to examine global trends in developer skills using multiple data sources.
 
 The final deliverables include:
