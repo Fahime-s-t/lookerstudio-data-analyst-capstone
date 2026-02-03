@@ -32,7 +32,8 @@ A PowerPoint presentation was created to communicate insights clearly to non-tec
 - Business implications and recommendations
 
 📄 File included in this repository:  
-Data Analyzing-Presentation.pdf
+ 
+ Data Analyzing-Presentation.pdf
 ---
 
 ## 🎯 Project Objective
