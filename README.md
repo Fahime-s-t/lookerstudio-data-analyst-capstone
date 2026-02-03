@@ -11,7 +11,7 @@ The final deliverables include:
 
 ## 📊 Live Dashboard (Looker Studio)
 👉 View the interactive dashboard here:  
-🔗 https://lookerstudio.google.com/REPORT-LINK-HERE
+🔗 https://lookerstudio.google.com/s/kddhgvvH0L4
 
 The dashboard visualizes:
 - Current technology usage
