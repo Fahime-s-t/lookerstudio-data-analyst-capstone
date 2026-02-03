@@ -33,8 +33,7 @@ A PowerPoint presentation was created to communicate insights clearly to non-tec
 
 📄 File included in this repository:  
  
- Data Analyzing-Presentation.pdf
----
+[Data Analyzing-Presentation.pdf](Data%20Analyzing-Presentation.pdf)---
 
 ## 🎯 Project Objective
 To analyze global developer data and answer questions such as:
